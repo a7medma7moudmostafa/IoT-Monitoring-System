@@ -1,5 +1,11 @@
 # 🌐 IoT Device Monitoring System
 
+
+
+https://github.com/user-attachments/assets/2509be9e-1eb6-41cd-90c6-d402bbc24611
+
+
+
 A complete, full-stack monorepo project designed to simulate, transmit, and monitor real-time sensor data. This system bridges the gap between hardware electronics and front-end web development, demonstrating a robust Client-Server architecture.
 
 ## 🏗️ System Architecture
